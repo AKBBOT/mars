@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    user-select: none;
+    color: inherit;
+}
+.boshlanishi{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.button{
+    background-color: yellow;
+}
+.kichkina-boshlanish{
+    display: flex;
+    margin-left: 1072px;
+    gap: 30px;
+}
+.til{
+    justify-content: center;
+}
+.boshlanish2{
+  background-color: gray;
+  color: white;
+}
+ul{
+    display: flex;
+    gap: 101px;
+    margin-left: 285px;
+}
+.body{
+    background-image: url(./img/image\ 5.png);
+    background-repeat: no-repeat;
+}
+.PS{
+    background-color: #F1A900;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.CONSOLE{
+    background-color:#000000;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.display-flex{
+    display: flex;
+    margin-top: 300px;
+justify-content: center;
+gap: 20px;
+}
+.erangel{
+    font-size: 50px;    
+    color: white;
+    background-color: #F1A90054;
+    display: inline-block;
+    margin-left: 400px;
+    padding: 30px;
+}
+.tugashi{
+    background-color: #000000;
+    display: flex;
+    justify-content: start;
+    margin-top: 120px;
+}
+.qwerty{
+    margin-left: 1165px;
+}
